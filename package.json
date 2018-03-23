@@ -1,0 +1,12 @@
+{
+  "name": "poibms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/overkektus/poibms.git",
+  "author": "Egor Piskunou <egor.piskunou@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "pem": "^1.12.3"
+  }
+}
